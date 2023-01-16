@@ -5,3 +5,7 @@ holaa
 
 ## markdown rules 
 https://www.markdownguide.org/basic-syntax
+
+```bash
+sudo su 
+```
